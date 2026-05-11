@@ -113,7 +113,7 @@ main {
     gap: 8px;
     padding: 8px 14px;
     background: rgba(57, 189, 255, 0.08);
-    border: 1px solid rgba(57, 189, 255, 0.16);
+    border: 1px solid rgba(74, 97, 105, 0.16);
     color: var(--accent-strong);
     border-radius: 999px;
     font-size: 0.85rem;
@@ -211,7 +211,7 @@ main {
 .btn-primary {
     background: linear-gradient(135deg, rgba(61,232,211,0.15), rgba(87,183,255,0.18));
     color: var(--accent);
-    border-color: rgba(61,232,211,0.3);
+    border-color: rgba(117, 179, 169, 0.3);
 }
 
 .btn-primary:hover {
@@ -219,7 +219,7 @@ main {
 }
 
 .btn-secondary {
-    background: rgba(255,255,255,0.04);
+    background: rgba(204, 84, 84, 0.04);
     color: var(--text);
     border-color: rgba(255,255,255,0.1);
 }
